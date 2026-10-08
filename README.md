@@ -2,4 +2,4 @@
 
 A Knowledge Website about Forough Farrokhzad
 
-https://maedeam.github.io/ForoughPedia/
+https://manyahub.github.io/ForoughPedia/
